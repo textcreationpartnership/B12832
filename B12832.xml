@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring His maiesties grace to his subiects, touching matters complained of, as publique greeuances.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12832</idno><idno type="EEBO-CITATION">99892560</idno>
+  <idno type="VID">185814</idno>
+  <idno type="EEBO-PROQUEST">2264197798</idno>
+  
+            <idno type="STC">STC 8667</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[87]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[236]</idno>
+            <idno type="PROQUEST">ocm99892560</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892560e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185814)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[87]; C14:1[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring His maiesties grace to his subiects, touching matters complained of, as publique greeuances.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[4] sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton, and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. D C.XXI. [1621].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>"Reforming abuses in writs and legal fees, announcing surrender of 8 patents, revoking 10 commissions, allowing common-law proceedings against 19 other grants, etc." -- STC.</note>
+                  <note>At end of text: Giuen at Our court at Whitehall, the tenth day of Iuly, in the nineteenth yeere of Our reigne of Great Britaine, France and Ireland.</note>
+                  <note>Arms 14; Steele notation: Princely  might  2) blemished 3) ships:  4) such  hu-.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Civil procedure --  England --  Early works to 1800.</term>
+               <term type="topical_term">Letters patent --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:185814:1"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">❧ A Proclamation declaring His Maiesties grace to his Subiects, touching matters complained of, as pub<g ref="char:EOLhyphen"/>lique greeuances.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings most Excellent Maiestie, taking into His Princely</hi> consideration, the many and great affaires treated of in His high Court of Parliament, which neither were, nor could be brought to perfection in any short time, as well for the weight and multitude thereof, as in respect of other Parliamentary proceedings, acted by His Maiesties assent and gracious allowance, which haue produced such memorable &amp; rare effects of exemplary Iustice, as many ages past cannot shew: And that although His Maiestie prolonged the Session to an vnusuall length; Yet could not the great and weighty businesses thereof bee concluded within any moderate time, which might stand with other His Maiesties most important occasions: And therefore, though His Highnesse was most willing to haue allowed them a longer time to sit, then at first Hee had resolued vpon, to the end Hee might haue giuen His Royall assent to some profitable and necessary Lawes; yet it was found, and by the house of Commons thought more conuenient for the present, to continue the same Session in course of adiournement which His Maiestie accordingly did, with purpose and full resolution (which He still continueth) to re<g ref="char:EOLhyphen"/>assemble the same, for the finall concluding of those and other causes, importing the publique: And his Highnesse obseruing that diuers of them (though fit to receiue a full period, and deter<g ref="char:EOLhyphen"/>mination in Parliament) are very meete and necessary, for the good of His people, to be setled and ordered in the meane time by His owne Regall authority and direction; and some others are of that quallity and condition, as His Maiestie needes no assistance of Parliament for refor<g ref="char:EOLhyphen"/>ming the same, and would haue reformed them before the Parliament, if the true state of His Subiects greeuances had beene then made knowne vnto him.</p>
+            <p>Therefore His Maiestie in this short time of cessation of Parliamentary proceedings, not al<g ref="char:EOLhyphen"/>lowing to himselfe any cessation or relaxation, from his continuall care and watch ouer the pub<g ref="char:EOLhyphen"/>lique, vpon mature deliberation with His Priuie Councill, hath aduised and resolued of sundry particulers, tending to the present ease of His people, and to the furtherance and aduancement of the flourishing estate of this Kingdome; And is pleased hereby to publish the same to all His louing Subiects, for the comfort and incouragement of them, of whose sincere and good affecti<g ref="char:EOLhyphen"/>ous, as at many other times, so in this His Parliament aboue others, Hee hath receiued aboun<g ref="char:EOLhyphen"/>dant testimonie: And therefore His Maiestie taking knowledge by the complaint of His Com<g ref="char:EOLhyphen"/>mons, of the great damage and disquiet of His honest and good Subiects, proceeding from the troublesome and restlesse spirits, and dispositions of Informers, and such as haue vexed them by Informations, and <hi>Supplicauits,</hi> in his Maiesties Courtes at Westminster; And that no small delay, and hinderance of the iustice, and peace of the Countrey hath beene occasioned, by the too frequent vse, of Writs of <hi>Cerciorari,</hi> &amp; of Writs of <hi>Supersedeas</hi> for the Peace, out of the same
+<pb facs="tcp:185814:2"/>Courts, &amp; that the common Iustice of the Realme hath been much scandalized, and blemished by Orders vnduely obtained in Chambers, and out of Court: His Maiestie hath giuen to the Iudges of those Courts such prouident and good Directions, accompanied with his strictest Charge and Commandement, for due obseruance of the same; as also, for abatement of exor<g ref="char:EOLhyphen"/>bitant Fees in all their Courtes, as he doubteth not will produce an effectuall reformation of those errors, beeing resolued to require a seuere accompt, where Hee shall finde remisnesse or default.</p>
+            <p>And where the Masters of his high Court of Chancerie, haue of late taken diuers vndue Fees and allowances, vpon References to them made out of the same Court, by colour of a Pri<g ref="char:EOLhyphen"/>uie Seale in that behalfe surreptitiously gotten; His Maiestie hath repealed, and reuoked the said Priuie Seale: And doth hereby straightly charge and command, that the same be not at a<g ref="char:EOLhyphen"/>ny time hereafter put in execution, nor any the said Fees or allowances hereafter challenged or demanded. And whereas his Maiestie hath receiued information of sundry grieuances lighting vpon many of his people, and chiefly the poorer sort, by reason of diuers Priuiledges Licences, and other Letters Patents procured from His Maiestie, vpon suggestions made to his Highnesse, that the same should tend to the Common good and profite of his Subiects; Howbeit, vpon examination it doth appeare, that many of the said Grantes were not onely ob<g ref="char:EOLhyphen"/>tained vpon false and vntrue surmises, but haue been also notoriously abused: His Maiestie ha<g ref="char:EOLhyphen"/>uing heretofore published in Print his dislike of such Suites, together with his hatred and de<g ref="char:EOLhyphen"/>testation of all importunities to obtaine or procure the same, is willing to manifest; That these abuses and surreptions against his precise Charge and Direction, haue confirmed Him in an vt<g ref="char:EOLhyphen"/>ter distaste of Suites of that nature, and is resolued, by making those Patents already obtai<g ref="char:EOLhyphen"/>ned from Him to be fruitlesse to the Procurers, to discourage all others hereafter to presse or im<g ref="char:EOLhyphen"/>portune him in the like. And therefore his Maiestie discerning, that these particuler Pa<g ref="char:EOLhyphen"/>tents ensuing: Namely, of, and concerning the making of Gold and Siluer foliat, The Li<g ref="char:EOLhyphen"/>censing of Pedlers and pettie Chapmen, The sole dressing of common Armes, The exportati<g ref="char:EOLhyphen"/>on of Lists, Shreds, and other like things, The sole making of Tobacco pipes, The hotte Presse, The manufacture of playing Cardes, and brogging of Wooll, haue been found of euill consequence, and some of them haue been much abused, contrary to His Maiesties gracious in<g ref="char:EOLhyphen"/>tention; and the same being made appeare to the parties interressed in those Grants, they haue voluntarily submitted; which his Highnesse accepting, hath taken order for the present surrender of the same Patents; and doeth hereby absolutely forbid all further execution of them, or any of them, or of any thing in them, or any of them contained, or of any Proclama<g ref="char:EOLhyphen"/>tion heeretofore published, for, or in any sort to the furthering or strengthening of them, or any of them.</p>
+            <p>And wheras at the importunity of some Suitors, &amp; for their priuate benefit, sundry Commis<g ref="char:EOLhyphen"/>sions, and generall Warrants vnder the great Seale, or Priuie Seale, haue beene procured, concerning the pardoning or dispensing with Trades-men, for not seruing a Prentice-hood, for pardoning or dispensing with the conuersion of arable Land into Pasture, for Licencing of Wine-caske, for making of Denizens, for granting of Leetes, for passing of Parkes, and Free-warrens, for granting of Faires and Markets, for granting of Tols, Stallages, and other like dueties, for Leasing of Tithes, for Passing or Leasing of Concealements, Intrusions, In<g ref="char:EOLhyphen"/>troachments, Lands out of Charge, and other Lands of like nature; the execution of which Commissions and Warrants hath not beene answerable to his Maiesties Gracious intenti<g ref="char:EOLhyphen"/>on, nor to the suggestions and specious pretences, whereupon He was mooued and induced to grant the same: Therefore, and because the same Commissions and Warrants, being execu<g ref="char:EOLhyphen"/>tory, are by Law reuokeable; His Maiestie doeth hereby fully and absolutely reuoke the same Commissions and Warrants, procured for the priuate benefit of any Suitor, and all Proclama<g ref="char:EOLhyphen"/>tions for the strengthening of them, or any of them: And doeth vtterly forbid all further and future Execution of them, or any of them, or of any thing in them, or any of them contained.</p>
+            <p>And whereas diuers other Priuiledges, Licences, and other like Patents, haue passed from his Maiesty; As namely, touching the Gilding and printing of Leather, Printing vpon Cloth, the making of pauing Tyles, Dishes, Pots, Garden poasts, and vessels of earth; The making of Stone pots, Stone Iugs, and the like; the importing of Pikes, Carpes, Eeles, and Scal<g ref="char:EOLhyphen"/>lops, The making of Racket hoopes, Rackets, and cloth balles, The making and selling of Oyle, inuented for keeping Armour, The importation of Sturgeon, The making of Gar<g ref="char:EOLhyphen"/>ments of Beauer, The making of hard Waxe, The making of Chamlets, The making of backe Screenes, The making of fortage and lineage for Paper, The measuring of Corne, Coale, and Salt, The printing of Briefs, and other things vpon one side of paper, The weigh<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:185814:3"/>of Hay and Straw, The discouerie of annoyances in the Thames, and Ballasting ships: His Maiestie doeth hereby publish and declare his gracious Will and Pleasure, That all and euery persons that at any time hereafter shall finde themselues grieued, iniuried, or wron<g ref="char:EOLhyphen"/>ged by reason of any of the said Graunts, or any Clause, Article or thing therein contained, may take their remedie therefore by the Common Lawes of the Realme, or other ordinary course of Iustice, any matter or thing in the sayd Graunts to the contrary notwithstanding.</p>
+            <p>And further, His Maiestie for the furtherance and increase of the Trade and Manufactures of this Realme, and at the humble instance &amp; petition of the Lords and Commons of his high Court of Parliament, hauing taken into his Princely care the Trade of the Outports of this Realme in new Draperies; Hath, by and with the aduise of his Priuie Counsell, and with the consent of the Merchant Aduenturers of the Citie of London resolued, and doeth hereby pub<g ref="char:EOLhyphen"/>lish and declare, That the Inhabitants of the Outports may from henceforth participate with the Merchant Aduenturers freely and indifferently in the forraigne Trade of new Draperies, aswell in the Mart Townes, as in any other place where the Merchant Aduenturers shall giue libertie to any of their owne Company to vent those commodities: And that in the sayd Mart townes, and in all other places within the precincts of the Merchant Aduenturers, the Inhabitants of the Outports in the Trade of New Draperies, shall enioy the Priuiledges of the Merchant Aduenturers in aslarge and ample manner, as the Merchant Aduenturers doe now enioy and exercise the same; as also in all other Commodities whatsoeuer, wherein the sayd Outports haue freely &amp; lawfully Traded in the time of the late Queene Elizabeth; and with this further fauour, That where the Merchant Aduenturers haue charged them<g ref="char:EOLhyphen"/>selues with three pence vpon euery Perpetuana, and other payments vpon other new Dra<g ref="char:EOLhyphen"/>peries, the Outports shall be free and exempt from those burthens.</p>
+            <p>And where his Maiestie, by his Proclamation, dated the xxvi. of September, in the twelfth yeere of his Reigne, for the better preseruing of the Manufacture of Cloth within this King<g ref="char:EOLhyphen"/>dome, and for the other considerations therein expressed, did prohibite the exportation of Sheepe-Woolls, Woolfells, and Fullers-earth; thereby charging and commanding all his louing Subiects of any his Kingdomes or Dominions of England, Wales, and Ireland, and of the Isles of Wight, Garnesey, and Iersey, aswell Merchants of the Staple, as o<g ref="char:EOLhyphen"/>thers; and likewise all Merchant Strangers whatsoeuer, That from thencefoorth there should bee no manner of Woolls or Woolfells by them, or any of them transported out of any the said Kingdomes, Isles, or Dominions, either into forreine parts, or out of any one of the said Kingdomes, Isles, or Dominions, into any other of the same, or into the Realme of Scotland, vpon paine of Confiscation of the same Woolls, and Woolfels, and all other paines and Penalties, which by the Lawes and Statutes of his Maiesties Kingdomes, or by his Prerogatiue Royall, in respect of the contempt and breach of his Commandement, might be inflicted vpon them.</p>
+            <p>And his Maiestie did likewise charge and command all Customers, Comptrollers, Col<g ref="char:EOLhyphen"/>lectors, Searchers, and all other Officers, at the Ports, and all and euery the Farmours of the Customes, and their Deputies, Ministers, and Waiters, not to permit any Woolls, or Woolfels, to passe out of any the said Kingdomes or Dominions, or out of any the said Isles, neither vnder colour of cariage from Port to Port, nor otherwise openly nor priuily, vpon paine of losse of their places, and such other punishment, as should be iust and meet.</p>
+            <p>And his Maiestie did further command and authorize all and euery Iustices of Peace, and all Maiors and principall Officers of Cities &amp; Townes, that where they should be enformed of any great and extraordinary quantitie of Woolls and Woolfels, to bee gathered or bestowed in any Barnes, Storehouses, or other places of receipt neere the Sea-coast, and out of the sur<g ref="char:EOLhyphen"/>uey and view of the Officers of the Ports, That in euery such case they should arrest such Woolls, and Woolfels, and take order by Bond or otherwise, for their stay and safe keeping, vn<g ref="char:EOLhyphen"/>till they had certified his Maiesties Priuie Councell, and receiued order from them for the same.</p>
+            <p>And his Maiestie did further charge and command all and euery his louing Subiects, and all Merchant Strangers, and others, that there should bee no Fullers-earth exported out of any the said Kingdomes or Dominions, vpon paine of Confiscation of the same, and any such other punishment, as by the Law, or by his Prerogatiue Royall, should be meete to be in<g ref="char:EOLhyphen"/>flicted vpon the offenders therein: His Maiestie vpon the humble Suit &amp; Petition of his said Lords and Commons, is pleased to quicken the said former Proclamation; And therefore doth by these Presents, straightly charge and command all and singuler persons, whom it shall or may concerne, that the said Proclamation, aswell in the branches and Clauses before recited, as in all and euery other Branch, Article, and Clause therein, be from hencefoorth put in full and
+<pb facs="tcp:185814:4"/>exact execution, it being his Maiesties full resolution to vse all seueritie of Iustice against such as shall be found delinquents therein.</p>
+            <p>And for a further aduauncement of Trade, his Maiestie is well pleased, and doeth hereby publish and declare, That whereas by reason of some Orders of restraint, heretofore obteined by the Drapers of the Towne of Shrewsbury, the Trade of buying and selling of Welsh Clothes, Cottons, Freeses, Lynings, and Plaines, hath beene restrained to some par<g ref="char:EOLhyphen"/>ticular Markets, and places; the same Welsh Clothes, Cottons, Freeses, Linings, and Plaines, shall and may from hencefoorth bee freely bought and sold in all places, and to all persons, where and to whom the same by the Lawes of the Realme, may bee sold, any Orders or restraints to the contrary notwithstanding.</p>
+            <p>And further, that according to the Suit and desire of the Inhabitants of the Dominion of Wales, expressed by a Bill in Parliament, which hath passed the House of Commons, all and euery Subiect of this Realme of England, and the Dominion of Wales, when the common and ordinary prices of Butter within the said Dominion of Wales, and Countie of Mon<g ref="char:EOLhyphen"/>mouth, shall not exceed the rates or prices of three pence the pound, from the last day of April, yeerely vnto the first day of Nouember; and foure pence the pound, from the last day of Octo<g ref="char:EOLhyphen"/>ber yeerely, vnto the first day of April, vntill some Acte of Parliament shall passe, concerning the same, shall and may without incurring any penaltie, or forfeiture therefore to his Maiestie (it being his good pleasure to remit the same) buy or cause to be bought any quantity of Butter, made or to bee made in the said Dominion of Wales, or Countie of Monmouth, and to trans<g ref="char:EOLhyphen"/>port any quantitie of such Butter in any English or Welsh Bottomes, into the parts beyond the Seas, paying therefore to his Maiestie all Customes, Subsidies, and other Dueties due and payable for the same.</p>
+            <p>And wheras the said Lords and Commons, became instant Suitors to his Maiesty, for the re<g ref="char:EOLhyphen"/>straint of exportation of Iron Ordinance, although his Maiesty had before the sitting downe of the Parliament setled a strict &amp; safe course for that effect; yet inclining to their motion, as to a mat<g ref="char:EOLhyphen"/>ter of high consequence, for the honour and safetie of this Realme, hath giuen strict charge ther<g ref="char:EOLhyphen"/>in to his Priuy Councell, who after long and deliberate aduise thereupon, by his Highnes Com<g ref="char:EOLhyphen"/>mand, and after diligent examination, and perusall of all former Orders in that behalfe esta<g ref="char:EOLhyphen"/>blished, haue added thereto such further Cautions, &amp; prescribed such exact courses for the due exe<g ref="char:EOLhyphen"/>cution of the same, as in the iudgement of all men will sufficiently secure his Maiesty, and all his louing Subiects of that perill and feare, which might be in any wise conceiued in that behalfe. And his Maiestie doeth by these presents signifie and declare His Gracious and Princely plea<g ref="char:EOLhyphen"/>sure, that albeit He hath in good measure, as the shortnesse of the time would permit, deuised and resolued vpon the seuerall remedies aboue rehearsed, for the ease of His Subiects: Yet it is not His Maiesties purpose, that His grace &amp; goodnesse to his people in matters of like nature, should beare no further fruit, but as time and opportunity will permit, He will enlarge and extend the same vnto such other particulers, wherein he shall haue cause to conceiue His Subiects may be iustly grieued; and that vntill the sitting againe of Parliament, both His owne, and the eares of His priuie Councell shall be open to the modest and iust complaints of His people; aswell con<g ref="char:EOLhyphen"/>cerning Monopolies and other Patents of euill nature and consequence, as concerning other Grieuances against the publique: Admonishing neuerthelesse, that vnder colour thereof, no man presume to trouble his Maiestie or his Councell with causelesse clamors, proceeding of hu<g ref="char:EOLhyphen"/>mour or priuate respects.</p>
+            <closer>
+               <dateline>Giuen at Our Court at Whitehall, <date>the tenth day of Iuly, in the nineteenth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by BONHAM NORTON, and IOHN BILL, Printers to the Kings most Excellent Maiestie. M.DC.XXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
